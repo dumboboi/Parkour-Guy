@@ -27,9 +27,7 @@ public:
     bool invincible;
     bool tookCoin;
     sf::Rect<float>heartsrc;
-    //Testing LEVEL 3 so we'll delete this latter(player speed is not public)
     float PLAYER_SPEED ;
-    //- ------/
     float x;
     float PreviousX;
     float PreviousY;
